@@ -1,1 +1,6 @@
-# frontend-learning-journey
+# 🌐 Frontend Learning Journey
+
+> 记录我学习前端开发的过程，包括笔记、代码示例、小项目和资源收集。  
+> 希望能通过这个仓库系统化学习，同时也作为我的成长记录和作品集。
+
+---
